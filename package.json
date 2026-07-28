@@ -1,5 +1,5 @@
 {
-  "name": "@steimbyte/pi-agent-compact",
+  "name": "@steimerbyte/pi-agent-compact",
   "version": "1.0.0",
   "description": "pi-coding-agent extension that exposes /compact as a callable tool for the agent",
   "license": "MIT",
@@ -44,10 +44,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/steimbyte/pi-agent-compact.git"
+    "url": "git+https://github.com/steimerbyte/pi-agent-compact.git"
   },
   "bugs": {
-    "url": "https://github.com/steimbyte/pi-agent-compact/issues"
+    "url": "https://github.com/steimerbyte/pi-agent-compact/issues"
   },
-  "homepage": "https://github.com/steimbyte/pi-agent-compact#readme"
+  "homepage": "https://github.com/steimerbyte/pi-agent-compact#readme"
 }

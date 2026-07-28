@@ -5,7 +5,7 @@
  *
  * Install:
  *   1. Add to settings.json `packages`:
- *        "npm:@steimbyte/pi-agent-compact"
+ *        "npm:@steimerbyte/pi-agent-compact"
  *   2. No further config needed.
  */
 
