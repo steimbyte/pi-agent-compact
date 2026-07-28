@@ -53,7 +53,6 @@ export default function (pi: ExtensionAPI) {
 						resolve({
 							content: [{ type: "text", text: `✗ Compaction failed: ${error.message}` }],
 							details: { error: error.message },
-							isError: true,
 						});
 					},
 				});
